@@ -2,3 +2,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
+Random_Forest_emotion.pkl filter=lfs diff=lfs merge=lfs -text
